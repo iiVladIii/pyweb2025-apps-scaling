@@ -2,3 +2,6 @@ frontend/node_modules
 .DS_Store
 frontend/.DS_Store
 frontend/dist
+.idea
+
+tests/results-*.txt
